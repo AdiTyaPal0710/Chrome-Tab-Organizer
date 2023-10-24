@@ -1,0 +1,26 @@
+body {
+    width: 200px;
+    padding: 20px;
+}
+
+
+h1{
+    text-align: center;
+    color: black;
+
+}
+
+button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: purple;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    transform: scale(1.2);
+}
